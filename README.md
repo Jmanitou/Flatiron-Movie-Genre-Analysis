@@ -39,6 +39,8 @@ We decided to incorporate [IMDB](https://www.imdb.com/) and [TheNumbers](https:/
 
 The data from TheNumbers was from 1915 to 2020, while the data from IMDB was from 2010 to 2020, which restricted the final merged data to a range from 2010 to 2020.
 
+To run the code, you must extract the imdb code and leave it where it gets extracted to. TheNumbers data can be left as its compressed format.
+
 ## Presentation
 The link to our presentation is [here](https://docs.google.com/presentation/d/1pH1hHfyZQmZ3kh7sWvf5r7A-bA_YAVCb6NYaPtmIeRw/edit?usp=sharing).
 
