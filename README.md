@@ -9,11 +9,26 @@ Jackson Robbins: https://github.com/Jmanitou
 Joey Barlia: https://github.com/JoeyBarlia
 
 ## Project Structure
-
+```
+├── data
+│   ├── im.db
+│   ├── Output_Data_All.csv
+│   ├── Output_Data_SciFi.csv
+│   └── tn.movie_budgets.csv.gz
+├── images
+│   ├── scifi_budgets.png
+│   ├── scifi_directors.png
+│   ├── scifi_linear_regression.csv
+│   └── top_five_genres.png
+├── .gitignore
+├── README.md
+├── Phase_Two_Movie_Project.pdf
+└── Movie_Genre_Analysis.ipynb
+```
 
 ## Business Understanding 
 
-A company is interested in creating a new movie studio to stay competitive,but they do not know anything about creating movies.
+A company is interested in creating a new movie studio to stay competitive, but they do not know anything about creating movies.
 
 Our goal was to determine which movies are doing best at the box office and make three recommendations for our company to use when deciding what type of films to create
 
