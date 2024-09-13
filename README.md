@@ -28,3 +28,22 @@ Joey Barlia: https://github.com/JoeyBarlia
 
 ## Business Understanding 
 
+A company is interested in creating a new movie studio to stay competitive,but they do not know anything about creating movies.
+
+Our goal was to determine which movies are doing best at the box office and make three recommendations for our company to use when deciding what type of films to create
+
+## Data
+The data is IMDB, Box Office Mojo, Rotten Tomatoes, TheMovieDB and The Numbers. 
+
+It includes production data and performance data. 
+
+Data is from movies released between 2010 and 2019.
+
+
+## Visualizations 
+
+## Conclusion
+
+## Next Steps 
+
+
