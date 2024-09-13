@@ -42,8 +42,23 @@ Data is from movies released between 2010 and 2019.
 
 ## Visualizations 
 
+
+
+
 ## Conclusion
 
+-Film in the Sci-Fi Genre
+
+-Film directed by Colin Trevorrow
+
+-Fund a film around 150,000,000 to 200,000,000
+
+
 ## Next Steps 
+
+-Look into older and newer movie data
+
+-Look into data that shows popular Sci-Fi literature that hasn't been adapted yet
+
 
 
