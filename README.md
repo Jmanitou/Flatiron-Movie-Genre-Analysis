@@ -18,29 +18,31 @@ A company is interested in creating a new movie studio to stay competitive,but t
 Our goal was to determine which movies are doing best at the box office and make three recommendations for our company to use when deciding what type of films to create
 
 ## Data
-The data is IMDB, Box Office Mojo, Rotten Tomatoes, TheMovieDB and The Numbers. 
+The data we were provided was from [IMDB](https://www.imdb.com/), [Box Office Mojo](https://www.boxofficemojo.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [TheMovieDB](https://www.themoviedb.org/), and [TheNumbers](https://www.the-numbers.com/). 
 
-It includes production data and performance data. 
+We decided to incorporate [IMDB](https://www.imdb.com/) and [TheNumbers](https://www.the-numbers.com/) data into our code as they provided different details about movies. IMDB gave us a look at a movie's genres and director, while TheNumbers gave us the budget and gross for the movie.
 
-Data is from movies released between 2010 and 2019.
+The data from TheNumbers was from 1915 to 2020, while the data from IMDB was from 2010 to 2020, which restricted the final merged data to a range from 2010 to 2020.
 
+## Presentation
+The link to our presentation is [here](https://docs.google.com/presentation/d/1pH1hHfyZQmZ3kh7sWvf5r7A-bA_YAVCb6NYaPtmIeRw/edit?usp=sharing).
 
 ## Visualizations 
 
 ### Profits of Top 5 Most Popular Movie Genres
-![image](https://github.com/JoeyBarlia/Flatiron-Movie-Genre-Analysis/blob/main/Screenshot%202024-09-13%20094821.png)
+![top_five_genres](images/top_five_genres.png)
 
 ### Sci-Fi Directors by Profit
 
-![image](https://github.com/user-attachments/assets/9b8fcce7-8d60-40d6-b690-28ee32cada41)
+![top_ten_scifi_directors](images/scifi_directors.PNG)
 
 ### Average Profit of Budget Ranges
 
-![image](https://github.com/JoeyBarlia/Flatiron-Movie-Genre-Analysis/blob/main/Screenshot%202024-09-13%20100138.png)
+![scifi_budgets](images/scifi_budgets.png)
 
 ### Sci Fi Movie Profit by Budget 
 
-![image](https://github.com/JoeyBarlia/Flatiron-Movie-Genre-Analysis/blob/main/Screenshot%202024-09-13%20100041.png)
+![scifi_linear_regression](images/scifi_linear_regression.png)
 
 
 ## Conclusion
