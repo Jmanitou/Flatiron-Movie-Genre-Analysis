@@ -1,0 +1,76 @@
+,movie,director,genres,budget,profit
+1,Avengers: Infinity War,Anthony Russo,"Action,Adventure,Sci-Fi",300000000,1748134200
+2,Avengers: Infinity War,Joe Russo,"Action,Adventure,Sci-Fi",300000000,1748134200
+9,Jurassic World,Colin Trevorrow,"Action,Adventure,Sci-Fi",215000000,1433854864
+5,The Avengers,Joss Whedon,"Action,Adventure,Sci-Fi",225000000,1292935897
+11,Black Panther,Ryan Coogler,"Action,Adventure,Sci-Fi",200000000,1148258224
+26,Jurassic World: Fallen Kingdom,J.A. Bayona,"Action,Adventure,Sci-Fi",170000000,1135772799
+0,Avengers: Age of Ultron,Joss Whedon,"Action,Adventure,Sci-Fi",330600000,1072413963
+13,Iron Man 3,Shane Black,"Action,Adventure,Sci-Fi",200000000,1015392272
+23,Captain Marvel,Ryan Fleck,"Action,Adventure,Sci-Fi",175000000,948061550
+24,Captain Marvel,Anna Boden,"Action,Adventure,Sci-Fi",175000000,948061550
+16,Transformers: Dark of the Moon,Michael Bay,"Action,Adventure,Sci-Fi",195000000,928790543
+10,Transformers: Age of Extinction,Michael Bay,"Action,Adventure,Sci-Fi",210000000,894039076
+4,Captain America: Civil War,Joe Russo,"Action,Adventure,Sci-Fi",250000000,890069413
+3,Captain America: Civil War,Anthony Russo,"Action,Adventure,Sci-Fi",250000000,890069413
+12,Rogue One: A Star Wars Story,Gareth Edwards,"Action,Adventure,Sci-Fi",200000000,849102856
+50,Venom,Ruben Fleischer,"Action,Sci-Fi,Thriller",116000000,737628605
+42,The Hunger Games: Catching Fire,Francis Lawrence,"Action,Adventure,Sci-Fi",130000000,734868047
+25,Spider-Man: Homecoming,Jon Watts,"Action,Adventure,Sci-Fi",175000000,705166350
+33,Inception,Christopher Nolan,"Action,Adventure,Sci-Fi",160000000,675524642
+44,The Hunger Games: Mockingjay - Part 1,Francis Lawrence,"Action,Adventure,Sci-Fi",125000000,641575131
+60,The Hunger Games,Gary Ross,"Action,Adventure,Sci-Fi",80000000,597923379
+52,Gravity,Alfonso Cuarón,"Drama,Sci-Fi,Thriller",110000000,583698673
+14,X-Men: Days of Future Past,Bryan Singer,"Action,Adventure,Sci-Fi",200000000,547862775
+54,The Martian,Ridley Scott,"Adventure,Drama,Sci-Fi",108000000,547271443
+28,Captain America: The Winter Soldier,Anthony Russo,"Action,Adventure,Sci-Fi",170000000,544401889
+29,Captain America: The Winter Soldier,Joe Russo,"Action,Adventure,Sci-Fi",170000000,544401889
+7,The Amazing Spider-Man,Marc Webb,"Action,Adventure,Sci-Fi",220000000,537890267
+15,The Amazing Spider-Man 2,Marc Webb,"Action,Adventure,Sci-Fi",200000000,508996336
+31,Interstellar,Christopher Nolan,"Adventure,Drama,Sci-Fi",165000000,501379375
+34,The Hunger Games: Mockingjay - Part 2,Francis Lawrence,"Action,Adventure,Sci-Fi",160000000,488986787
+43,Logan,James Mangold,"Action,Drama,Sci-Fi",127000000,488461394
+27,Iron Man 2,Jon Favreau,"Action,Adventure,Sci-Fi",170000000,451156389
+6,Man of Steel,Zack Snyder,"Action,Adventure,Sci-Fi",225000000,442999518
+39,Ready Player One,Steven Spielberg,"Action,Adventure,Sci-Fi",150000000,429290136
+65,Lucy,Luc Besson,"Action,Sci-Fi,Thriller",40000000,417507776
+8,Transformers: The Last Knight,Michael Bay,"Action,Adventure,Sci-Fi",217000000,385893340
+58,Rise of the Planet of the Apes,Rupert Wyatt,"Action,Drama,Sci-Fi",93000000,377986200
+35,Godzilla,Gareth Edwards,"Action,Adventure,Sci-Fi",160000000,369076069
+20,X-Men: Apocalypse,Bryan Singer,"Action,Adventure,Sci-Fi",178000000,364537546
+55,Bumblebee,Travis Knight,"Action,Adventure,Sci-Fi",102000000,363195589
+21,The Meg,Jon Turteltaub,"Action,Horror,Sci-Fi",178000000,351530715
+70,A Quiet Place,John Krasinski,"Drama,Horror,Sci-Fi",17000000,317522294
+66,The Maze Runner,Wes Ball,"Action,Mystery,Sci-Fi",34000000,314319861
+46,Rampage,Brad Peyton,"Action,Adventure,Sci-Fi",120000000,308056280
+51,The Wolverine,James Mangold,"Action,Adventure,Sci-Fi",115000000,301456852
+45,Prometheus,Ridley Scott,"Adventure,Mystery,Sci-Fi",125000000,277448265
+17,Star Trek Into Darkness,J.J. Abrams,"Action,Adventure,Sci-Fi",190000000,277381584
+62,Maze Runner: The Scorch Trials,Wes Ball,"Action,Sci-Fi,Thriller",61000000,249566162
+41,G.I. Joe: Retaliation,Jon M. Chu,"Action,Adventure,Sci-Fi",140000000,235740705
+30,Alita: Battle Angel,Robert Rodriguez,"Action,Adventure,Sci-Fi",170000000,232976036
+40,Captain America: The First Avenger,Joe Johnston,"Action,Adventure,Sci-Fi",140000000,230569776
+69,Glass,M. Night Shyamalan,"Drama,Sci-Fi,Thriller",20000000,225303505
+18,Pacific Rim,Guillermo del Toro,"Action,Adventure,Sci-Fi",190000000,221002906
+38,Mad Max: Fury Road,George Miller,"Action,Adventure,Sci-Fi",150000000,220098020
+32,Independence Day: Resurgence,Roland Emmerich,"Action,Adventure,Sci-Fi",165000000,219169424
+63,Super 8,J.J. Abrams,"Mystery,Sci-Fi,Thriller",50000000,207972745
+36,X-Men: First Class,Matthew Vaughn,"Action,Adventure,Sci-Fi",160000000,195408305
+22,Edge of Tomorrow,Doug Liman,"Action,Sci-Fi",178000000,192541256
+53,Passengers,Morten Tyldum,"Drama,Romance,Sci-Fi",110000000,192239672
+61,Resident Evil: Retribution,Paul W.S. Anderson,"Action,Horror,Sci-Fi",65000000,175647629
+48,Oblivion,Joseph Kosinski,"Action,Adventure,Sci-Fi",120000000,167916633
+47,Elysium,Neill Blomkamp,"Action,Drama,Sci-Fi",120000000,166192091
+64,Arrival,Denis Villeneuve,"Drama,Mystery,Sci-Fi",47000000,156127894
+59,Pixels,Chris Columbus,"Action,Comedy,Sci-Fi",90000000,154041804
+19,Star Trek Beyond,Justin Lin,"Action,Adventure,Sci-Fi",185000000,150802233
+57,Alien: Covenant,Ridley Scott,"Horror,Sci-Fi,Thriller",97000000,141521247
+37,Pacific Rim: Uprising,Steven S. DeKnight,"Action,Adventure,Sci-Fi",155000000,135930148
+68,Limitless,Neil Burger,"Mystery,Sci-Fi,Thriller",27000000,128564919
+71,The First Purge,Gerard McMurray,"Action,Horror,Sci-Fi",13000000,123617305
+49,RoboCop,José Padilha,"Action,Crime,Sci-Fi",120000000,122981799
+56,Geostorm,Dean Devlin,"Action,Sci-Fi,Thriller",100000000,120796009
+72,Chronicle,Josh Trank,"Drama,Sci-Fi,Thriller",12000000,111681790
+73,The Purge: Election Year,James DeMonaco,"Action,Horror,Sci-Fi",10000000,108514727
+67,Source Code,Duncan Jones,"Action,Drama,Sci-Fi",32000000,108428499
+74,The Purge: Anarchy,James DeMonaco,"Action,Horror,Sci-Fi",9000000,102534881
