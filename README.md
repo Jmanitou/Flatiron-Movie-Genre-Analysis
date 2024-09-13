@@ -64,18 +64,19 @@ The link to our presentation is [here](https://docs.google.com/presentation/d/1p
 
 ## Conclusion
 
--Film in the Sci-Fi Genre
+* Film in the Sci-Fi Genre
 
--Film directed by Colin Trevorrow
+* Film directed by Colin Trevorrow
 
--Fund a film around 150,000,000 to 200,000,000
+* Fund a film around 150,000,000 to 200,000,000
+
 
 
 ## Next Steps 
 
--Look into older and newer movie data
+* Look into older and newer movie data
 
--Look into data that shows popular Sci-Fi literature that hasn't been adapted yet
+* Look into data that shows popular Sci-Fi literature that hasn't been adapted yet
 
 
 
