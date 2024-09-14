@@ -53,7 +53,7 @@ The link to our presentation is [here](https://docs.google.com/presentation/d/1p
 
 ### Sci-Fi Directors by Profit
 
-![top_ten_scifi_directors](images/scifi_directors.PNG)
+![top_ten_scifi_directors](images/scifi_directors.png)
 
 ### Average Profit of Budget Ranges
 
