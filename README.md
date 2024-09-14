@@ -1,5 +1,5 @@
 
-![insert](images/film.png)
+![film_negative](images/film.png)
 # Flatiron-Movie-Genre-Analysis
 
 Created for the August 2024 Flatiron Data Science Cohort. A collection of insights for a company looking to get into the movie making business, focusing on qualites that a movie should have in order to maximize its earning potential. 
@@ -81,4 +81,4 @@ The link to our presentation is [here](https://docs.google.com/presentation/d/1p
 * Look into data that shows popular Sci-Fi literature that hasn't been adapted yet
 
 
-
+![film_negative](images/film.png)
